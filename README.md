@@ -10,7 +10,7 @@
 
 </div>
 
- ![Soavadia](https://drive.google.com/file/d/12Y8E7-2SCCCEta2Ztm-T9IMTQy4H1-JJ/view)
+ ![Soavadia](./logo.jpeg)
 
  <!-- TABLE OF CONTENTS -->
 <details>
@@ -53,7 +53,7 @@ And `\c` to connect to the DataBase.
 
 ## Merise
 
-![Merise] (https://drive.google.com/file/d/12Zn_DIaWEE4pWoHRF5Z-mDIjj1ya1C4k/view) 
+![Merise](./merise.webp) 
 
 ## Contributors
 
